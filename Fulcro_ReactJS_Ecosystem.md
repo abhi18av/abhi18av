@@ -28,7 +28,9 @@ Relied on refactoring to avoid unnecessary updates across re-renders.
  
 ## Work related to pure react
  
+- https://github.com/requisitos-habitica/Habitica/pull/123
+ 
 I’ve been a fan of Habitica for a long time and I found out that a few Brazilians have created a proper SRS for the project. The problem was it’s only on Brazilian Protuguese. I added support for internationalization, though they are yet to take any action on it so far (I guess, they graduated the Uni and basically abandoned the project or 2020 has kept them occupied anyhow)
  
-https://github.com/requisitos-habitica/Habitica/pull/123
+
  
