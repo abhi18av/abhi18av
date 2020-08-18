@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here's brief list of my open source work, containing the PRs and initiatives which I consider to be noteworthy
+Here's brief list of my public or open source work, containing the PRs and initiatives which I consider to be noteworthy
 
 [Fulcro - ReactJS ecosystem](https://github.com/abhi18av/abhi18av/blob/master/Fulcro_ReactJS_Ecosystem.md)
  
