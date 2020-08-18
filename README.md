@@ -9,4 +9,6 @@ Here's brief list of my open source work, containing the PRs and initiatives whi
 
 [CLI tools](./CLI_Tools.md)
 
+[Misc](./Misc.md)
+
 [Scientific collaborations](./Scientific_Collaborations.md)
