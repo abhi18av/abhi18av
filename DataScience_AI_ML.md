@@ -1,5 +1,10 @@
 ## Work related to the Data science / Machine Learning
-  
+ 
+ 
+- https://github.com/abhi18av/CertificationsAndCourses/blob/master/AWS/AWS_Certified_Machine_Learning_Specialty_certificate.pdf
+
+AWS Machine Learning Specialist certification
+ 
 Regarding that web scraping example, there’s a similar project by some NSIT undergrads which were interning at Devnagri at the time which uses the same techniques I used for scraing the translator data for Kutumbh (translator) meetups for devnagri.com
  
 https://github.com/A-Infinite/WebUIAutomation
