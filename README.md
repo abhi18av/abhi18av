@@ -16,12 +16,12 @@ My name is Abhinav Sharma, I am a Data Scientist who enjoys working with Bioinfo
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=3776AB)
-
+![](https://img.shields.io/badge/Package-Conda-informational?style=flat&logo=conda)
 
 
 
 # Highlights
-Here's brief list of my public or open source work, containing the PRs and initiatives which I consider to be noteworthy
+Here's brief list of my public or open source work, containing the PRs and initiatives which I consider to be noteworthy as of mid-2020.
 
 [Scientific collaborations](https://github.com/abhi18av/abhi18av/blob/master/Scientific_Collaborations.md), [DataScience - AI - ML](https://github.com/abhi18av/abhi18av/blob/master/DataScience_AI_ML.md), [CLI tools](https://github.com/abhi18av/abhi18av/blob/master/CLI_Tools.md), [ReactJS ecosystem](https://github.com/abhi18av/abhi18av/blob/master/Fulcro_ReactJS_Ecosystem.md) and [Misc](https://github.com/abhi18av/abhi18av/blob/master/Misc.md)
 
