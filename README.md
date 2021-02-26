@@ -11,8 +11,11 @@ My name is Abhinav Sharma, I am a Data Scientist who enjoys working with Bioinfo
 
 
 ![](https://img.shields.io/badge/code-kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/code-nextflow-green&logoColor=white&color=019733)
-![](https://img.shields.io/badge/code-clojure-green&logo=clojure&logoColor=white)
+![](https://img.shields.io/badge/code-nextflow-informational?style=flat&logo=nextflow&logoColor=white&color=019733)
+![](https://img.shields.io/badge/code-clojure-informational?style=flat&logo=clojure&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=3776AB)
+
 
 # Highlights
 Here's brief list of my public or open source work, containing the PRs and initiatives which I consider to be noteworthy
