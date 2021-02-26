@@ -9,14 +9,10 @@ My name is Abhinav Sharma, I am a Data Scientist who enjoys working with Bioinfo
 
 ### Some of my favourite tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=debian&logoColor=white&color=A81D33)
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
-![](https://img.shields.io/badge/Editor-Emacs-informational?style=flat&logo=gnu-emacs&logoColor=white&color=7F5AB6)
+
+![](https://img.shields.io/badge/code-kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/code-nextflow-green&logoColor=white&color=019733)
+![](https://img.shields.io/badge/code-clojure-green&logo=clojure&logoColor=white)
 
 # Highlights
 Here's brief list of my public or open source work, containing the PRs and initiatives which I consider to be noteworthy
