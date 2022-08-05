@@ -10,7 +10,7 @@ My name is Abhinav Sharma, I am a Data Scientist who enjoys working with Bioinfo
 ### Some of my favourite tools
 
 
-![](https://img.shields.io/badge/code-kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Deployment-Nomad-green)
 ![](https://img.shields.io/badge/code-nextflow-informational?style=flat&logo=nextflow&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/code-clojure-informational?style=flat&logo=clojure&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
