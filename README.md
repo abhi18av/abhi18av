@@ -5,7 +5,7 @@ My name is Abhinav Sharma, I am a Data Scientist who enjoys working with Bioinfo
 [![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-6402-6993) ![Profile views in 2021](https://gpvc.arturio.dev/abhi18av)
 
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi18av&show_icons=true&theme=radical) 
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi18av&show_icons=true&theme=tokyonight) 
 
 ### Some of my favourite tools
 
